@@ -23,6 +23,7 @@
 		41585DDF275BC67000C16613 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41585DDE275BC67000C16613 /* NetworkManager.swift */; };
 		41585DE1275BC70200C16613 /* AlbumDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41585DE0275BC70200C16613 /* AlbumDataModel.swift */; };
 		41585DE4275BC72200C16613 /* AlbumModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41585DE3275BC72200C16613 /* AlbumModel.swift */; };
+		415899E8278C638100615AA6 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 415899E7278C638100615AA6 /* .gitignore */; };
 		41B3E9B1275CD822007B73F1 /* AboutUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B3E9B0275CD822007B73F1 /* AboutUserViewController.swift */; };
 		41B3E9B3275CD835007B73F1 /* AboutUserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B3E9B2275CD835007B73F1 /* AboutUserView.swift */; };
 		41B3E9B5275CD843007B73F1 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41B3E9B4275CD843007B73F1 /* UserModel.swift */; };
@@ -74,6 +75,7 @@
 		41585DDE275BC67000C16613 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		41585DE0275BC70200C16613 /* AlbumDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumDataModel.swift; sourceTree = "<group>"; };
 		41585DE3275BC72200C16613 /* AlbumModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumModel.swift; sourceTree = "<group>"; };
+		415899E7278C638100615AA6 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		41B3E9B0275CD822007B73F1 /* AboutUserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUserViewController.swift; sourceTree = "<group>"; };
 		41B3E9B2275CD835007B73F1 /* AboutUserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUserView.swift; sourceTree = "<group>"; };
 		41B3E9B4275CD843007B73F1 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
@@ -322,6 +324,7 @@
 		41BA4C3A2756AA32008D1F09 = {
 			isa = PBXGroup;
 			children = (
+				415899E7278C638100615AA6 /* .gitignore */,
 				41BA4C452756AA33008D1F09 /* MusicAlbumApp */,
 				41BA4C442756AA33008D1F09 /* Products */,
 			);
@@ -494,6 +497,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				415899E8278C638100615AA6 /* .gitignore in Resources */,
 				41BA4C532756AA34008D1F09 /* LaunchScreen.storyboard in Resources */,
 				41BA4C502756AA34008D1F09 /* Assets.xcassets in Resources */,
 				41B3E9C2275D67C8007B73F1 /* GoogleService-Info.plist in Resources */,
