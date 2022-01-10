@@ -14,7 +14,7 @@ The project is designed for educational purposes for training and practice
 - First name (only English).
 - Second name (only English).
 - Date of birthday (Choose with calendar and at least 18 years old).
-- Phone number (Format: "+7 (***) ***-**-**" and +7 appear automatically after user entering first number.
+- Phone number (Format: "+7 (123) 123-11-22" and +7 appear automatically after user entering first number.
 - Email (with correctness check).
 - Password (more 6 characters and at least 1 uppercase character, 1 lowercase character and at least 1 number).
 
