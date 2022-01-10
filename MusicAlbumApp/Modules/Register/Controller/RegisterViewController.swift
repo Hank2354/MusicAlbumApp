@@ -17,6 +17,7 @@ class RegisterViewController: UIViewController {
     var registerView: RegisterView!
     
     @objc private func backButtonAction()                        {
+        // Dismiss this ViewController after tap backButton
         self.dismiss(animated: true)
     }
     
